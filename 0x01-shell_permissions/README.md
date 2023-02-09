@@ -1,6 +1,6 @@
 This is a readme for the project 0x01-shell_permissions
 Its a script project that will contain scripts and other neccessary folders.
-#######################################################################
+####################################################################### 
 
 	---------SCRIPT_ONE------------0-iam_betty-------------
 	Creates a script that switches the current user to the user betty.
@@ -13,9 +13,7 @@ Its a script project that will contain scripts and other neccessary folders.
 
 	--------------------3-new_owner--------------------
 	Write a script that changes the owner of the file hello to the user betty.
-	
 
-
+	--------------------4-empty--------------------
+	Write a script that creates an empty file called hello.
 	
-	
-
