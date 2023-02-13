@@ -6,9 +6,9 @@
 *This script that prints “Hello, World”, followed by a new line to the standard output.
 
 #######################################################################################.
-			  1. Confused smiley
+			  1. confused smiley
 
-This a script that displays a confused smiley "(Ôo)'.
+this a script that displays a confused smiley "(Ôo)'.
 
 
 #######################################################################################.
@@ -24,5 +24,9 @@ This script display the con of two paths to a file.
 When seperated with a space cat can display the content of two files.
 Just need to pass the paths like this: cat /etc/passwd /etc/hosts.
 #######################################################################################.
+		       4. Last lines of a file.
 
-
+Display the last 10 lines of /etc/passwd, using tail comand .
+With the tail comand reading the last lines of a log is easier.
+You can even pass flags to determine the number of lines you want to read.
+#######################################################################################.
