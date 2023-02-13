@@ -30,3 +30,8 @@ Display the last 10 lines of /etc/passwd, using tail comand .
 With the tail comand reading the last lines of a log is easier.
 You can even pass flags to determine the number of lines you want to read.
 #######################################################################################.
+		5. I'd prefer the first ones actually
+Display the first 10 lines of /etc/passwd, using tail comand .
+With the tail comand reading the first lines of a file is easier.
+You can even pass flags to determine the number of lines you want to read.
+#######################################################################################.
