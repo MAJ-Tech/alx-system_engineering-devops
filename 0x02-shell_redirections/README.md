@@ -35,3 +35,11 @@ Display the first 10 lines of /etc/passwd, using tail comand .
 With the tail comand reading the first lines of a file is easier.
 You can even pass flags to determine the number of lines you want to read.
 #######################################################################################.
+			      6. Line #2
+This  script that displays the third line of the file "iacta"
+Without using sed, there has to be a go around this problem to have a 
+solution for it.
+First we have to understand that using the head comand witn -n3 will give you the frst 3
+lines and then using pipelines on the same line, tail -n1 will give you the last of the 3 lines.
+Solution head -n3 /etc/passwd | tail -n1
+#######################################################################################
