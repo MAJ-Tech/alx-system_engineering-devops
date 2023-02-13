@@ -12,4 +12,11 @@ This a script that displays a confused smiley "(Ôo)'.
 
 
 #######################################################################################.
+		       2. Let's display a file
+
+This script  will display the content of the file /etc/passwd.
+When modified the script can read a path to directory and idsplay its content
+
+#######################################################################################.
+
 
