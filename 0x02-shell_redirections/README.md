@@ -18,5 +18,11 @@ This script  will display the content of the file /etc/passwd.
 When modified the script can read a path to directory and idsplay its content
 
 #######################################################################################.
+			   3. What about 2?
+
+This script display the con of two paths to a file.
+When seperated with a space cat can display the content of two files.
+Just need to pass the paths like this: cat /etc/passwd /etc/hosts.
+#######################################################################################.
 
 
