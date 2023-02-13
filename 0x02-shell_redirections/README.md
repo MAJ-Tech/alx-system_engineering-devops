@@ -43,3 +43,10 @@ First we have to understand that using the head comand witn -n3 will give you th
 lines and then using pipelines on the same line, tail -n1 will give you the last of the 3 lines.
 Solution head -n3 /etc/passwd | tail -n1
 #######################################################################################
+      7. It is a good file that cuts iron without making a noise.
+
+Write a shell script that creates a file named exactly
+ \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the
+ text Best School ending by a new line.
+
+#######################################################################################
