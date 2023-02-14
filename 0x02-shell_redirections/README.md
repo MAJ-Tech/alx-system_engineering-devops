@@ -1,4 +1,4 @@
-		***README FOR 0X02_SHELL_REDIRECTIONS***
+aaaa		***README FOR 0X02_SHELL_REDIRECTIONS***
 
 #######################################################################################.
 		
