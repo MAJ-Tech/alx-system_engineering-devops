@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lR | rm --one-file-system  *.js
+find . -name '*.js' -delete
